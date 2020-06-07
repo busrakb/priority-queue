@@ -6,7 +6,8 @@ Queue da FIFO(first input first output) yani ilk giren ilk çıkar mantığında
 
 Bazı hazır funtionlar şunlardır;
 
-push() : eleman eklemek 
+push() : eleman eklemek
+
 pop() : ilk elemanı çıkartır ve sizeda da 1 azalma gerçekleşir
 size(): eleman sayısını döndürür
 empty(): kontainerın boş olup olmadığını bakar.boş ise 1 ,dolu ise 0 değerini döndürür
