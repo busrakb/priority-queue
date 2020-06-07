@@ -1,10 +1,11 @@
 # priority-queue
 Öncelikli Sıralandırma Kontanır ile ilgili çalışmalar
 
-Bilgisayar bilimlerinde veri yapıları (data structures) konularında kullanılan veri yapısının ismidir. Konteynır adaptör türlerindendr.
+Bilgisayar bilimlerinde veri yapıları (data structures) konularında kullanılan veri yapısının ismidir. Konteynır adaptör türlerindendir.
 Queue da FIFO(first input first output) yani ilk giren ilk çıkar mantığında çalışmakta ilen priority_queue de ise bu mantık dışında önceliklendirme olarak operitor< görevinde çalışmaktadır.
 
 Bazı hazır funtionlar şunlardır;
+
 push() : eleman eklemek 
 pop() : ilk elemanı çıkartır ve sizeda da 1 azalma gerçekleşir
 size(): eleman sayısını döndürür
