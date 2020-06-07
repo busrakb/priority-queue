@@ -3,5 +3,3 @@
 
 
 
-#Example1
-Example1  çalışmasında basic düzeyde 
